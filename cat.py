@@ -16,9 +16,7 @@ garfield.name = "Garfield"
 garfield.age = 50
 garfield.speak
 
-    
-
-
+#test
 #Create objects here
 #These should NOT be indented inside the class
 
